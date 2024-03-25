@@ -14,4 +14,4 @@ Step 2: Running the Code
     ma.ipynb -> Damage for Mansory 
 
     
-# Note: In line 3 of the Python script, ensure that you have enabled Google Drive Desktop rights and have your Gmail credentials ready for authentication
+## Note: In line 3 of the Python script, ensure that you have enabled Google Drive Desktop rights and have your Gmail credentials ready for authentication
